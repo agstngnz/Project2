@@ -1,0 +1,32 @@
+@media only screen and (min-width: 576px) {
+.navbar-brand  {
+    margin-left: 50px;
+    };
+
+  }
+
+.container {
+    margin-top: 20px;
+  }
+
+.dropdown-item {
+    color: #78C2AD;
+    background-color: #f8f9fa;
+  } 
+
+.active-img {
+    border: 2px solid;
+    border-color: #78C2AD;
+  }
+
+.footer{
+     position:relative;
+     margin-top: 40px;
+     border-top: 5px solid;
+     border-top-color: #78C2AD;
+     padding-top: 15px;
+     display: block;
+     text-align: center;
+     color: #78C2AD;
+  }
+
